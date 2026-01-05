@@ -12,7 +12,17 @@ I'm an AWS Certified Cloud Practitioner with a **Bachelor's degree in Management
 
 ---
 
-## 🛠️ Tech Stack
+## � Work Experience
+
+**IT Helpdesk and System Administrator Intern** @ Yeşilova Holding *(Feb 2024 - Jun 2024)*
+- 🖥️ Configured 50+ employee workstations with OS installations, disk imaging (Acronis), and software deployment
+- ⚙️ Developed Winget-based automation scripts, reducing manual setup time by 40%+
+- 🛡️ Hands-on with Active Directory, Exchange Server, Group Policy, Fortinet firewalls, and Aruba switches
+- 📊 Monitored system performance using Grafana dashboards
+
+---
+
+## �🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -20,6 +30,12 @@ I'm an AWS Certified Cloud Practitioner with a **Bachelor's degree in Management
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🤖 AWS AI/ML Services
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Rekognition](https://img.shields.io/badge/Rekognition-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Textract](https://img.shields.io/badge/Textract-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
