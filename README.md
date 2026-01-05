@@ -10,18 +10,6 @@ I'm an AWS Certified Cloud Practitioner with a **Bachelor's degree in Management
 
 > 💡 *"I aim to improve system reliability and efficiency through automation and infrastructure management."*
 
----
-
-## � Work Experience
-
-**IT Helpdesk and System Administrator Intern** @ Yeşilova Holding *(Feb 2024 - Jun 2024)*
-- 🖥️ Configured 50+ employee workstations with OS installations, disk imaging (Acronis), and software deployment
-- ⚙️ Developed Winget-based automation scripts, reducing manual setup time by 40%+
-- 🛡️ Hands-on with Active Directory, Exchange Server, Group Policy, Fortinet firewalls, and Aruba switches
-- 📊 Monitored system performance using Grafana dashboards
-
----
-
 ## �🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
